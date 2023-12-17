@@ -1,0 +1,14 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.app{
+    background-color: #dddddd;
+    width: 970px;
+    margin: 0px auto;
+    height: 620px;
+    padding-top: 20px;
+    margin-top: 60px;
+}

@@ -1,0 +1,11 @@
+.main {
+    background-color: #e06666;
+    width: 790px;    
+    height: 460px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+}
