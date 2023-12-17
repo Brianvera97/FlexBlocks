@@ -4,8 +4,9 @@
     height: 460px;
     margin-top: 20px;
     display: flex;
-    justify-content: space-around;
+    column-gap: 20px;
     flex-wrap: wrap;
+    padding-left: 20px;
 
 
 }
